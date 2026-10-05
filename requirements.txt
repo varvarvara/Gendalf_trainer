@@ -1,0 +1,9 @@
+nicegui
+pyaudio
+webrtcvad
+requests
+torch
+numpy
+python-dotenv
+# Optional noise suppression for main_with_noise_suppression.py
+webrtc-noise-gain
